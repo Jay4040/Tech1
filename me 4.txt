@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+    body{
+        block-size: 10px;
+        background-color: red;
+    }
+</style>
+</head>
+<body>
+
+    <h1>Form</h1>
+
+    <form>
+
+        <label>Name</label>
+        <input name="name">
+
+        <label>Email</label>
+        <input name="email">
+
+        <button type="submit">Sign up</button>
+        <br>
+        <br>
+        <input type="submit" name="submit" value="Submit">
+    
+    </form>
+    <table>
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Date or birth</th>
+
+        </tr>
+        <tr>
+            <td>State of origin</td>
+            <td>Place of birth</td>
+            <td>Country</td>
+
+        </tr>
+        <tr>
+            <td>Marital Status</td>
+            <td>Occupation</td>
+            <td>Name Of Company</td>
+            
+        </tr>
+    </table>
+    
+</body>
+</html>

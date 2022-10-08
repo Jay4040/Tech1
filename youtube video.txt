@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content=width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie-edge">
+
+<title>input element</title>
+</Head>
+
+<body>
+
+<form>
+<label>name</label>
+<input>
+<label>password</label
+<input>
+<button>submit</button>
+</form>
+        to make it straight use your div
+<div>
+<label>name</label>
+<input>
+</div>
+
+<div>
+<label>Password</label>
+<input>
+</div>
+<button>submit>
+
+
+             (label input)
+</body>
+<h1></h1>
+<form>
+<label>name</label>
+<input name="">
+<label>Email</label>
+<input name="">
+</html>
+
+
+</title>
+
+</head>
+
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+
+</html>
+
+
+Please again the assignment is : use labels alongside input elements and study tables 
+
+!  

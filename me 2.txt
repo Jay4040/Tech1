@@ -1,0 +1,97 @@
+what is HTML?....HTML stands for'HyperText Markup Language'
+
+(2) it is used to markup or describe the different elements on web page 
+
+(3) it is the basic building block for all websites out there.
+
+
+
+HTML- Structure
+
+CSS-Styling
+
+javascript-interactivity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Label</title>
+</head>
+<body>
+    <form>
+        <div>
+            <label>Name</label>
+            <input>
+        </div>
+        <div>
+            <label>password</label>
+            <input>
+        </div>
+        <button>Submit</button>
+    </form>
+    
+</body>
+<h1>Form</h1>
+
+<form>
+   <label>Name</label>
+   <input type="test" name="name">
+
+   <label>Email</label>
+   <input name="email">
+
+   <button>Sign Up</button>
+   <input=">
+</form>
+</html>
+<head>
+    <title>Document</title>
+    <Style>
+        table,td,td,td{
+            
+        }
+    </Style>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>Not filled</td>
+            <td>Not filled</td>
+            <td>Not filled</td>
+            
+        </tr>
+        <tr>
+            <td>Not filled</td>
+            <td>Not filled</td>
+            <td>Not filled</td>
+        </tr>
+        <tr>
+            <td>Not filled</td>
+            <td>Not filled</td>
+            <td>Not filled</td>
+        </tr>
+        <tr>
+            <td>Not filled</td>
+            <td>Not filled</td>
+            <td>Not filled</td>
+        </tr>
+    </table>
+</body>
+</html>
