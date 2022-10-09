@@ -1,0 +1,7 @@
+previous landing page for slack
+ls means list
+cd means change directive 
+
+
+
+
